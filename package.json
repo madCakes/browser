@@ -1,4 +1,8 @@
 {
+  "scripts": {
+    "test": "jest --verbose",
+    "cov": "jest --coverage"
+  },
   "devDependencies": {
     "jest": "^28.1.2",
     "jest-environment-jsdom": "^28.1.2"
